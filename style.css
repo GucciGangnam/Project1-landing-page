@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+
+
+.header { 
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px;
+    font-family: sans-serif;
+
+}
+
+
+.logo {  
+    font-weight: bold;
+    font-size: 20px;
+    padding: 25px;
+    font-family: sans-serif;
+
+}
+
+.hlinks{ 
+    display: flex;
+    padding: 25px;
+    gap: 30px;
+
+
+}
+
+.banner { 
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    gap: 30px;
+    
+}
+.content { 
+    font-family: hero;
+    width: 400px;
+    height: 210px;
+    flex-shrink: 0;
+    font-family: sans-serif;
+    
+}
+
+.l { 
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    margin-left: 
+    
+}
+
+.r { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+
+}
+
+
+.one {
+    font-size: 48px; 
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.two {
+    color: #E5E7EB;
+    margin-top: 5px;
+}
+
+.three {
+     
+    font-weight: bold;
+    padding: 8px; 
+    background-color: #3882F6;
+    border: 0px solid red;
+   border-radius: 10px;
+   width: fit-content;
+   margin: 10px;
+    
+}
+
+
+
+.main { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.heading { 
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 40px;
+}
+
+
+.quotediv { 
+    background-color: #E5E7EB;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote { 
+ max-width: 800px;
+ font-size: 38px;
+ color: #1F2937;
+ font-family: sans-serif;
+ padding: 70px;
+ font-style: italic;
+}
+
+.quoteauth { 
+    align-self: center;
+    margin-left: 540px;
+    padding-bottom: 70px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
