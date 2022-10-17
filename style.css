@@ -117,6 +117,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+
 }
 
 .quote { 
@@ -136,9 +137,73 @@
     font-family: sans-serif;
 }
 
+.cards { 
+    display: flex;
+    gap: 20px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+.card { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box { 
+    border: 5px solid rgb(78, 137, 255);
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.text { 
+    text-align: center;
+    max-width: 200px;
+    
+}
+
+.cta { 
+   min-height: 300px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #E5E7EB;
+   font-family: sans-serif;
+    
+}
+
+.bbox { 
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    border: 5px solid rgb(78, 137, 255);
+    border-radius: 10px;
+    padding: 50px;
+    gap: 100px;
+
+}
+
+.ctar { 
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+
+}
 
 
 
-
-
+.foot { 
+   display: flex;
+    background-color: #1F2937;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
 
